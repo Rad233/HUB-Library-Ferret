@@ -1,0 +1,19 @@
+{
+  "block.libraryferret.fake_emerald_block":"假绿宝石块",
+  "block.libraryferret.unbreakable_emerald_beacon":"不可破坏的绿宝石信标",
+  "block.libraryferret.unbreakable_iron_beacon":"不可破坏的铁信标",
+  "item.libraryferret.diamond_coins_jtl":"钻石币",
+  "block.libraryferret.unbreakable_gold_beacon":"不可破坏的金信标",
+  "block.libraryferret.unbreakable_netherite_beacon":"不可破坏的下界合金信标",
+  "item.libraryferret.iron_coins_jtl":"铁币",
+  "item.libraryferret.emerald_coins_jtl":"绿宝石币",
+  "item.libraryferret.gold_coins_jtl":"金币",
+  "block.libraryferret.fake_iron_block":"假铁块",
+  "block.libraryferret.fake_netherite_block":"假下界合金块",
+  "block.libraryferret.fake_diamond_block":"假钻石块",
+  "item.libraryferret.netherite_coins_jtl":"下界合金币",
+  "itemGroup.libraryferret.libraryferret":"Lib Ferret utils",
+  "effect.libraryferret.unbreakable_curse":"a5r1诅咒",
+  "block.libraryferret.fake_gold_block":"假金块",
+  "block.libraryferret.unbreakable_diamond_beacon":"不可破坏的钻石信标"
+}
